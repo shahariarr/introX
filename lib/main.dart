@@ -162,11 +162,11 @@ class MyApp extends StatelessWidget {
                 // Footer
                 Container(
                   padding: const EdgeInsets.all(20),
-                  color: Colors.blue[800],
+                  // color: Colors.blue[800],
                   child: const Text(
-                    'Designed by Devartisan | Flutter Masterclass',
+                    'Designed by Devartisan | In Shifat',
                     style: TextStyle(
-                      color: Colors.white,
+                      color: Color.fromARGB(255, 19, 112, 233),
                       fontSize: 14,
                       letterSpacing: 0.8,
                     ),
