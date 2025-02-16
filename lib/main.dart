@@ -106,7 +106,7 @@ class MyApp extends StatelessWidget {
                             'I am Shahariar Rahman, a dedicated web designer and back-end developer with a strong focus on creating elegant and user-friendly experiences. My passion lies in developing exceptional software that enriches the lives of those in my community.',
                             textAlign: TextAlign.center,
                             style: TextStyle(
-                              fontSize: 12,
+                              fontSize: 10,
                               color: Colors.grey[700],
                               height: 1.5,
                             ),
